@@ -46,8 +46,8 @@ I am a Fullstack Software Engineer that loves to create beautiful and performant
 </p>
 
 
-## Github Stats
+<!-- ## Github Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdRaqeeb&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdRaqeeb&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+</p> -->
