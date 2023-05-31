@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 I am a Fullstack Software Engineer that loves to create beautiful and performant products with delightful user experiences.
 ## Skills
 <p>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-00ADD8?Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F9A03C?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
@@ -46,8 +47,8 @@ I am a Fullstack Software Engineer that loves to create beautiful and performant
 </p>
 
 
-<!-- ## Github Stats
+## Github Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdRaqeeb&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdRaqeeb&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p> -->
+</p>
